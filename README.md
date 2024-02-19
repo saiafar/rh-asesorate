@@ -58,8 +58,8 @@ Once you have completed all tasks, submit your work as instructed.
 * Provide a separate file with documentation
 
 ## Developer
-Name: `<your name>` <br/>
-Email: `<your email>`<br/>
+Name: `Rafaias Villan` <br/>
+Email: `saiafar@gmail.com`<br/>
 
 ## Instructions
 ### DO NOT START A NEW LARAVEL APP, USE THIS BOILERPLATE INSTEAD !!
